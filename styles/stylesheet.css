@@ -1,0 +1,23 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-indent: 10px;
+}
+.first {
+    text-align: left;
+    position: relative;
+    left: 25%;
+    top: 2%;
+    color: red;
+    background-color: black;
+}
+.sub{
+    text-align: justify;
+    color: white;
+    display: inline;
+    background-color: black;
+
+}
+img {
+    object-fit:contain;
+    width:100%;
+}
